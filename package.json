@@ -1,0 +1,12 @@
+{
+  "name": "pipeline-app",
+  "version": "1.0.0",
+  "description": "Basit bir Node.js uygulaması - pipeline için",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "mehmetsalihogun",
+  "license": "ISC"
+}
+
